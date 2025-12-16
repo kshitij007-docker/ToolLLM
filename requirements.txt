@@ -1,6 +1,6 @@
 streamlit
 langchain
-langchain_groq
+langchain-groq
 langchain-community
 wikipedia
 arxiv
