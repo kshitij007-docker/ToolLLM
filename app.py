@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 
 
-## Wikipedia Tool
+# Wikipedia Tool
 
 ### Create an object that knows how to fetch data from Wikipedia
 api_wrapper_wiki = WikipediaAPIWrapper(
