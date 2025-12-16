@@ -5,5 +5,5 @@ langchain-community==0.0.38
 wikipedia
 arxiv
 python-dotenv
-ddgs
+duckduckgo-search
 sse_starlette
