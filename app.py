@@ -8,9 +8,6 @@ import os
 from dotenv import load_dotenv
 
 
-
-
-
 # Wikipedia Tool
 
 ### Create an object that knows how to fetch data from Wikipedia
